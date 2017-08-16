@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "C:\\Users\\asami\\AndroidStudioProjects\\parse2\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\asami\\.android\\build-cache\\285a23919ffb24841208daa1c54eb74206c1f6b3\\output\\res\\values-w480dp-v13\\values-w480dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\asami\\.android\\build-cache\\285a23919ffb24841208daa1c54eb74206c1f6b3\\output\\res\\values-w480dp-v13\\values-w480dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 71,
+                        "endOffset": 184
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\asami\\Desktop\\To be Uploaded to Github\\Uber_Clone\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\asami\\.android\\build-cache\\285a23919ffb24841208daa1c54eb74206c1f6b3\\output\\res\\values-w480dp-v13\\values-w480dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\asami\\.android\\build-cache\\285a23919ffb24841208daa1c54eb74206c1f6b3\\output\\res\\values-w480dp-v13\\values-w480dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 71,
+                        "endOffset": 184
+                    }
+                }
+            }
+        ]
+    }
+]

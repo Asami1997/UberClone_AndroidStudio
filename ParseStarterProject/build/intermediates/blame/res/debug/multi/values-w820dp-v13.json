@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\asami\\AndroidStudioProjects\\parse2\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\asami\\AndroidStudioProjects\\parse2\\Uber\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 57,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\asami\\Desktop\\To be Uploaded to Github\\Uber_Clone\\Uber\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\asami\\Desktop\\To be Uploaded to Github\\Uber_Clone\\Uber\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 57,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    }
+]
