@@ -29,23 +29,7 @@ public class StarterApplication extends Application {
             .build()
     );
 
-    /*
-    ParseObject object = new ParseObject("ExampleObject");
-    object.put("myNumber", "123");
-    object.put("myString", "rob");
-
-    object.saveInBackground(new SaveCallback () {
-      @Override
-      public void done(ParseException ex) {
-        if (ex == null) {
-          Log.i("Parse Result", "Successful!");
-        } else {
-          Log.i("Parse Result", "Failed" + ex.toString());
-        }
-      }
-    });
-    */
-
+ 
     //ParseUser.enableAutomaticUser();
 
     ParseACL defaultACL = new ParseACL();
